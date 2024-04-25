@@ -31,7 +31,7 @@
     "initial_embedding_skip_connections": true,
 
     "event_info_file": "/eos/user/j/jmitic/hhh/event_files/svb.yaml",
-    "training_file": "/eos/user/j/jmitic/hhh/data/svb_testing_random.h5",
+    "training_file": "/eos/user/j/jmitic/hhh/data/svb_training_random.h5",
 
     "normalize_features": true,
     "limit_to_num_jets": 0,
